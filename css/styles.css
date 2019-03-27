@@ -1,0 +1,10 @@
+#endLetter {
+  display: none;
+}
+
+.btn {
+  font-weight: bold;
+   text-decoration: underline;
+   cursor: pointer;
+   color: #0088cc;
+}
